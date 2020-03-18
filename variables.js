@@ -1,6 +1,5 @@
 /** Colocamos Var o Let para decir
  * que estamos creando una variable */
-/**Los variables solo pueden colocar $ o - */
 
 var name = "Jon";
 let lastname = "Martinez";
@@ -16,4 +15,3 @@ console.log(lastname)
 console.log(nick)
 
 /**---------------------------- */
- 
